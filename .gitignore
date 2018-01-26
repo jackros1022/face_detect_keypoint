@@ -1,0 +1,6 @@
+*.zip
+cnn-face-data/
+traindata/
+*.pyc
+*.caffemodel
+*.solverstate
